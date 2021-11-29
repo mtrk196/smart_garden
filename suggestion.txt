@@ -1,0 +1,7 @@
+1.Watering= we'll calcualate humidity and temperature. based on that model will decide how much water is needed on that day and it'll provide that amount
+	of water in garden. we need 12V water pump & pipe for water circulation.
+2.soil = we can understand soil's condition using soil moisture sensor. It'll help us to decide the right decision for the soil.
+3.WiFi module= If we use arduino wifi in the garden. it'll send us report of everything about the garden. we can take necessary steps remotely.
+4.LDR=LDR detects low intensity light,it'll turn on to give enough light to plants.
+5.PIR sensor & buzzer = animals are harmful for plants. We can implement PIR sensor. If any animal attacks on plants , PIR sensor will detect motion and the buzzer
+	will turn on .
